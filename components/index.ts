@@ -1,2 +1,2 @@
-export * from './layout';
-export { default as SpeechSynthesisComponent } from './SpeechSynthesisComponent';
+export * from "./layout";
+export * from "./ui";
